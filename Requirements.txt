@@ -1,4 +1,7 @@
 Typing
 colors
 emoji
-voice Messege
+voice Message
+dark mode
+video call
+voice call
