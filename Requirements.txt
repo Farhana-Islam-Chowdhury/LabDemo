@@ -5,3 +5,5 @@ voice Message
 dark mode
 video call
 voice call
+send money
+receive money
